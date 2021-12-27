@@ -21,7 +21,7 @@ export default function AddTodo({ submitHandler }) {
           submitHandler(text);
           setText('');
         }}
-        title="add todo"
+        title="ADD TODO"
         color="coral"
       />
     </View>
